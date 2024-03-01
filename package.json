@@ -1,0 +1,15 @@
+{
+  "name": "sound-player-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "openai": "^4.28.4"
+  }
+}
